@@ -14,5 +14,5 @@ A console-based Snake & Ladder game in C.
 
 1. Compile the code:
    ```bash
-   gcc snake_ladder_game.c -o snake_ladder_game
-   ./snake_ladder_game
+   gcc Ladder_Snake.c -o Ladder_Snake
+   ./Ladder_Snake
